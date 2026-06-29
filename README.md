@@ -1,5 +1,5 @@
 <p align="center">
-  <font face="Segoe UI, Helvetica, Arial, sans-serif" size="4">
+  <font face="Consolas, Monaco, monospace" size="3.5">
     Hi! I'm a Computer Science student currently diving deep into <b>Android Development</b> and building mobile experiences. Passionate about full-stack architectures, clean code, and sharpening my problem-solving skills daily on LeetCode. Beyond engineering, I love stepping up as a leader and public speaker to drive community engagement!
   </font>
 </p>
